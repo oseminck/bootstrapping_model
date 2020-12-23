@@ -1,0 +1,17 @@
+This project uses data from the Lyon corpus https://phonbank.talkbank.org/access/French/Lyon.html, which was elaborated by Katherine Demuth and Harriet Jisa and and 
+stored in the TalkBank / Childes Corpus coordinated by Brian McWhinney.
+
+MacWhinney, Brian. 2000. The CHILDES Project: Tools for Analyzing Talk: Volume I: Transcription Format and Programs, Volume II: The Database. MIT Press.
+
+We cite the following article to credit the researchers of the corpora we use, and you should too if you use the data in this project based on their study.
+Demuth, K. & A. Tremblay (2008). Prosodically-conditioned variability in children's production of French determiners. Journal of Child Language, 35, 99-127.
+
+This project falls under the following Creative Commons licence:
+CC BY-NC-SA: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. 
+
+CC BY-NC-SA includes the following elements:
+BY  – Credit must be given to the creator
+NC  – Only noncommercial uses of the work are permitted
+SA  – Adaptations must be shared under the same terms
+
+If you use the scripts or data from this Github project, you must share your work under the same licence.
